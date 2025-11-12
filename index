@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Web de ciberseguridad</title>
+<link rel="stylesheet" href="miCSS.css">
+</head>
+<body>
+	<h1><center> CIBERSEGURIDAD </center> </h1>
+	<p> <center> En esta página web encontrarás información acerca de la ciberseguiridad proporcionada de 
+	INCIBE, página web oficial del Instituto Nacional de Ciberseguridad la cual ofrece servicios de
+	orientados a fomentar el uso seguro de las tecnologías
+	por parte de niños/as y adolescentes a través 
+	de la iniciativa Internet Segura for Kids (IS4K), que es a su vez el Centro de Seguridad 
+	en Internet para menores de edad en España.</center> </p>
+	
+	<center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKGhPqU-T-uSVWd3FpETnOD6qd4mhF8PD9fg&s" alt=""></center>
+	
+	<h2><a href="#Mecanismo de protección y defensa">Mecanismo de protección y defensa</a></h2>
+	<h2><a href="#Medidas de protección">Medidas de protección</a></h2>
+	<h2><a href="#Malware (principales familias)">Malware (principales familias)</a></h2>
+	
+	<h2>Clases de ataques</h2>
+	<h3>Ataques a contraseñas </h3>
+		<ul>
+			<li> Fuerza bruta: prueba masiva de combinaciones hasta dar con la contraseña.</li>
+			<li>Ataque por diccionario: usa palabras comunes y variaciones para adivinar contraseñas.</li>
+		<strong>Protección: contraseñas robustas y únicas, gestores de contraseñas y autenticación multifactor.</strong>
+		</ul>
+		
+		<center><img src="https://ci.ucr.ac.cr/sites/default/files/2022-04/Ciberseguridad.jpg" height= 400 width= 630 alt=""></center>
+
+	<h3>Ingeniería social </h3>
+		<ul>
+			<li> Phishing / Vishing / Smishing: suplantación por e-mail, teléfono o SMS para engañar y obtener credenciales o que ejecutes malware.</li>
+
+			<li>Spear phishing: phishing dirigido usando información concreta sobre la víctima.</li>
+
+			<li>Baiting (gancho): cebos físicos o digitales (USB infectados, ofertas falsas).</li>
+
+			<li>Shoulder surfing: mirar por encima del hombro en lugares públicos.</li>
+
+			<li>Dumpster diving: recuperar información de la basura.</li>
+
+			<li>Spam y fraudes online: envíos masivos y estafas (tiendas falsas, préstamos, sextorsión…).</li>
+			<strong>Protección: desconfiar de mensajes urgentes, comprobar remitentes/URLs, no abrir adjuntos sospechosos, sentido común.</strong>
+		</ul>
+
+	<h3>Ataques a las conexiones / red </h3> 
+		<ul>
+			<li>Redes trampa (Wi-Fi falsas): redes que imitan una legítima para robar credenciales.</li>
+
+			<li>Spoofing: suplantación de IP, web, e-mail o DNS para redirigir o falsificar comunicaciones.</li>
+
+			<li>Ataques a cookies (robo/envenenamiento): para suplantar sesiones o modificar datos.</li>
+
+			<li>DDoS: saturar un servicio desde muchos equipos (a menudo mediante botnets).</li>
+
+			<li>Inyección SQL: introducir código en formularios para acceder a bases de datos.</li>
+
+			<li>Escaneo de puertos / sniffing / Man-in-the-middle: descubrir puntos débiles, capturar tráfico o interceptarlo.</li>
+			<strong>Protección: usar https, VPN en redes públicas, configurar y actualizar router/firewall, proveedor fiable y monitorización.</strong>
+		</ul>
+		<center><img src="https://www.incibe.es/sites/default/files/contenidos/blog/historiasreales_0.jpg" height= 300 width= 530 alt=""></center>
+
+
+	<<h3 id="Malware (principales familias)"> Malware (principales familias)</h3>   
+		<ul>
+
+			<li>Virus, gusanos: se replican e infectan archivos o redes.</li>
+
+			<li>Troyanos (incl. backdoors, stealers): ocultan funcionalidad maliciosa; roban datos o abren puertas traseras.</li>
+
+			<li>Keyloggers: registran teclas para robar credenciales.</li>
+
+			<li>Spyware / adware / rogueware (falso antivirus): espionaje, anuncios molestos o fraudes que inducen a instalar malware.</li>
+
+			<li>Ransomware: cifra archivos y exige rescate.</li>
+
+			<li>Rootkits: ocultan presencia del atacante.</li>
+
+			<li>Botnets: redes de equipos controlados para ataques (DDoS, spam).</li>
+
+			<li>Criptojacking: usa recursos del dispositivo para minar criptomonedas.</li>
+
+			<li>Apps maliciosas: aplicaciones que piden permisos excesivos o contienen código dañino.</li>
+			<strong>Protección: antivirus actualizado, no descargar de sitios no oficiales, no ejecutar adjuntos sospechosos, parchear sistemas.</strong>
+		</ul>
+
+	<h3 id="Medidas de protección"> Medidas de protección</h3>   
+			<ul>
+
+				<li>Usar antivirus y mantenerlo activo y actualizado.</li>
+
+				<li>Mantener sistema, navegador y apps actualizados.</li>
+
+				<li>Contraseñas fuertes y diferentes; activar verificación en dos pasos.</li>
+
+				<li>Desconfiar de adjuntos/enlaces sospechosos; comprobar URLs y remitentes.</li>
+
+				<li>Navegar sólo en webs seguras (https); usar modo incógnito si procede.</li>
+
+				<li>Descargar sólo desde sitios oficiales y dar permisos mínimos a apps.</li>
+
+				<li>Evitar redes Wi-Fi públicas; si es imprescindible, usar VPN.</li>
+
+				<li>No compartir información sensible en sitios no fiables.</li>
+
+				<li>Hacer copias de seguridad periódicas.</li>
+		</ul>
+				<center><img src="https://content.kaspersky-labs.com/fm/press-releases/1a/1a6356905f8aae1017a9fc254c687224/processed/gettyimages-1350595566-q75-q93.jpg" height= 300 width= 530 alt=""></center>
+
+</p>
+	<h2 id="Mecanismo de protección y defensa"> Mecanismo de protección y defensa</h2>
+	
+		<table border="1" cellspacing="0" cellpadding="8">
+  <tr>
+    <th><h3>Nº</h3></th>
+    <th><h3>Consejo</h3></th>
+    <th><h3>Descripción / Detalle</h3></th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Crea contraseñas fuertes y únicas</td>
+    <td>Usa contraseñas distintas para cada cuenta online, no las compartas y cámbialas periódicamente para proteger tu información.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Usa la autenticación de dos factores (2FA)</td>
+    <td>Activa esta opción cuando esté disponible para añadir una capa extra de seguridad a tus cuentas.</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Utiliza herramientas de privacidad</td>
+    <td>Emplea extensiones que bloqueen anuncios y rastreadores, o aplicaciones VPN que cifren la información que transmites al navegar.</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Limita la información personal que compartes</td>
+    <td>Evita revelar datos personales como dirección, teléfono o información financiera en servicios o aplicaciones no verificadas.</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Evita prácticas de riesgo (como el sexting)</td>
+    <td>No compartas contenido sensible que pueda ser utilizado indebidamente o sin tu consentimiento.</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Revisa la configuración de privacidad</td>
+    <td>Ajusta las opciones de privacidad en redes sociales y servicios para controlar quién puede ver tu información.</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Usa sitios web seguros (HTTPS)</td>
+    <td>No compartas información personal en páginas sin conexión segura o cuya legitimidad no puedas confirmar.</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>Mantén software y apps actualizadas</td>
+    <td>Actualiza regularmente tus dispositivos y programas para evitar vulnerabilidades que puedan comprometer tu privacidad.</td>
+  </tr>
+</table>
+			
+		
+</body>
+</html>
